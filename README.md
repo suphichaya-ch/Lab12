@@ -1,17 +1,21 @@
-# community_support_app
+# 🎊 Community Events App
 
-A new Flutter project.
+แอปพลิเคชันสำหรับจัดการกิจกรรมและข่าวสารในชุมชน พัฒนาด้วย **Flutter** และระบบฐานข้อมูล **SQLite**
 
-## Getting Started
+## ✨ ฟีเจอร์หลัก
+* 📋 **จัดการกิจกรรม:** เพิ่ม/ลบ ข่าวสารกิจกรรมในชุมชนได้ถาวร
+* 📊 **ระบบสถิติ:** แสดงสัดส่วนกิจกรรมแต่ละประเภทด้วยกราฟ
+* 🔍 **ระบบตัวกรอง:** ค้นหาและกรองประเภทกิจกรรมที่สนใจ
+* 💾 **Local Database:** ข้อมูลไม่หายแม้ปิดแอปด้วย SQLite
 
-This project is a starting point for a Flutter application.
+## 📸 ตัวอย่างการใช้งาน
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠 เทคโนโลยีที่ใช้
+* **Frontend:** Flutter (Dart)
+* **State Management:** Provider
+* **Database:** SQLite (sqflite)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+  
