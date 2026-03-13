@@ -16,6 +16,3 @@
 * **State Management:** Provider
 * **Database:** SQLite (sqflite)
 
-
-
-  
